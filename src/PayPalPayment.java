@@ -8,7 +8,7 @@ public class PayPalPayment implements PaymentStrategy{
     }
 
     public String sete_mail(String e_mail){
-        return e_mail; 
+        return e_mail;  
     }
     public String gete_mail(){
         return e_mail;
